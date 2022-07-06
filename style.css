@@ -31,8 +31,32 @@ h1{
     background-image:url(top-banner.png);
     background-repeat: no-repeat;
 }
-.background-img{
+.background-img{ 
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding-left: 10%;
+    border-radius: 10px;
+     box-shadow: 10px 10px 40px rgb(217, 12, 12);
+}
+.Experience{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border-color{
+    border-left:5px solid tomato;
+}
+#Border-color{
+    border-left:5px solid blue;
+}
+
+footer p{
+    text-align: center;
 }
